@@ -63,6 +63,10 @@
     background-color:  #ffe7de;
 }
 
+.payment .payment-option2{
+    color: white;
+}
+
 @media (max-width:700px) {
     .place-order{
         flex-direction: column;
